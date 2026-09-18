@@ -274,44 +274,6 @@ Every candidate was checked before being listed, because a name containing "jev"
 
 Ranking keeps the raw signals separate and combines them with weights in code: `score = 50 × log-scaled stars + 50 × (interest ÷ 4)`. Interest is a Score question answered over the repository description and README; stars come from the GitHub API. Change the weights and the ranking changes without re-running any inference.
 
-## Not Included
-
-Candidates that were checked and left out, so the same ones are not re-proposed.
-
-**No evidence of Jev** — no reference in the README, file tree or dependencies:
-
-- `Shubhamsaboo/awesome-llm-apps` — 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
-- `programasweights/programasweights-python` — Python SDK for ProgramAsWeights — compile natural language specs into neural programs that run locally.
-- `odashi/davinci-functions` — Library to ask OpenAI GPT for generating objects on the Python runtime.
-- `vinhnx/VT.ai` — VT.ai - multimodal AI chat app with dynamic conversation routing.
-- `supernovae-st/nika` — Intent as Code | the workflow language for AI. One file, 4 verbs, one Rust binary. Local-first, any model, AGPL-3.0. 🦋.
-- `guilt/tinytot` — TinyToT — Tree of Thoughts inference server.
-- `Trampoline-AI/avalanche` — Avalanche makes agents first-class steps in typed data pipelines. Compose adaptive agent work with deterministic Python transformations in one DAG, run it…
-- `wobsoriano/touchpress` — e2e testing for mobile apps.
-- `stephanj/parallelConstraintDecoding` — Parallel Constraint Decoding using Java and Llama.cpp compared to Python 🔥.
-- `andreasvig/ai-plays-pokemon` — AI agent that plays Pokemon FireRed using only screen vision.
-- `warmersun/future-forge` — Future Forge — invent with emerging tech and an AI co-inventor.
-- `kvnloo/aodl` — AODL/HOTL: typed IR for agent orchestration graphs (schema + fail-closed validator, not a scheduler).
-- `CumulativeWebInc/cwi-voice-bridge` — Open-source real-time voice adapter for AI agents: NetEQ-inspired adaptive jitter buffer with playout-drain guard, and a patter-customized Twilio Media…
-- `blackopsrepl/lumen` — Single-binary browser service for agents and humans.
-- `rinsakamo/relay-self` — Persistent cognition, present projection, and embodied control runtime for Relay.
-- `jayleaton/qwen38-flash-next-exl3-spark` — Serve Qwen3.8-Flash-Next (uncensored EXL3) on one NVIDIA DGX Spark: one Docker image, OpenAI-compatible endpoint, MTP speculative decoding, 262k context.…
-
-**Intent only** — mentions Jev as planned future work, not yet used:
-
-- `jfariello/supervised-ai-agency` — README contains a "Planned Jev experiment" section.
-
-**Unreachable** — repository returns 404:
-
-- `IAnMove/jev-game-agentI`
-- `awlevin/jev-are-they-mad`
-- `pangoleen/jev-gate`
-- `vlad-terin/jev-browser`
-
-**Duplicates** — renamed, folded into their current name:
-
-- `TheoLeeCJ/openjev` → [TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf)
-- `bnsd55/openjev` → [bnsd55/jevmlx](https://github.com/bnsd55/jevmlx)
 
 ## Contributing
 
