@@ -21,8 +21,6 @@ Jev answers typed questions — [Choice](https://docs.typesafe.ai/primitives/cho
 - [Other Lists](#other-lists)
 - [Upstream Integrations](#upstream-integrations)
 - [Method](#method)
-- [Not Included](#not-included)
-
 ## Top 25
 
 Ranked by an even blend of popularity (log-scaled stars) and how compelling the project is. The *Interest* column is a 0–4 rating from Jev itself, averaged over its probability distribution.
