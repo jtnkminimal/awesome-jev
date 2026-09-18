@@ -1,0 +1,49 @@
+name: Update star counts
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'      # Mondays, 06:00 UTC
+  workflow_dispatch:          # run it by hand after merging a PR
+  pull_request:
+    paths: ['README.md']      # new entries get checked, not committed
+
+concurrency:
+  group: update-stars
+  cancel-in-progress: false
+
+jobs:
+  stars:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # On a pull request the token is read-only, so only report drift.
+      - name: Check star counts
+        if: github.event_name == 'pull_request'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_stars.py --check
+
+      - name: Refresh star counts
+        if: github.event_name != 'pull_request'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_stars.py
+
+      - name: Commit
+        if: github.event_name != 'pull_request'
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "nothing to commit"
+            exit 0
+          fi
+          git config user.name  'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'chore: refresh star counts' -- README.md
+          git push
