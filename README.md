@@ -4,7 +4,7 @@
 
 Jev answers typed questions — [Choice](https://docs.typesafe.ai/primitives/choice.md), [Noul](https://docs.typesafe.ai/primitives/noul.md) and [Score](https://docs.typesafe.ai/primitives/score.md) — with calibrated probabilities instead of prose, so ordinary code keeps control of the workflow. This list collects what people have built with it.
 
-**136 ranked projects** plus **18 upstream integrations**. Every entry was checked against the repository itself; 21 candidates were rejected. See [Method](#method).
+**136 ranked projects** plus **18 upstream integrations**. Every entry was checked against the repository itself; See [Method](#method).
 
 ## Contents
 
