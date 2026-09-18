@@ -33,7 +33,7 @@ Ranked by an even blend of popularity (log-scaled stars) and how compelling the 
 | 2 | [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) | 2.9k | 3.0 | 84.5 |
 | 3 | [TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf) | 1.5k | 3.0 | 80.2 |
 | 4 | [vercel-labs/ai-cli](https://github.com/vercel-labs/ai-cli) | 800 | 3.0 | 76.2 |
-| 5 | [vinnylarouge/jevlike](https://github.com/vinnylarouge/jevlike) | 862 | 2.6 | 71.6 |
+| 5 | [vinnylarouge/jevlike](https://github.com/vinnylarouge/jevlike) | 863 | 2.6 | 71.6 |
 | 6 | [jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader) | 825 | 2.5 | 70.6 |
 | 7 | [TianyuCodings/NanoJev](https://github.com/TianyuCodings/NanoJev) | 334 | 2.9 | 70.6 |
 | 8 | [devagrawal09/jev-review](https://github.com/devagrawal09/jev-review) | 260 | 2.7 | 66.2 |
@@ -42,11 +42,11 @@ Ranked by an even blend of popularity (log-scaled stars) and how compelling the 
 | 11 | [ekzhang/openjev-sglang](https://github.com/ekzhang/openjev-sglang) | 142 | 2.7 | 63.2 |
 | 12 | [RomanSlack/jev-drone](https://github.com/RomanSlack/jev-drone) | 58 | 3.1 | 62.4 |
 | 13 | [AbdelStark/awesome-typesafe](https://github.com/AbdelStark/awesome-typesafe) | 220 | 2.4 | 62.1 |
-| 14 | [yibie/awesome-jev](https://github.com/yibie/awesome-jev) | 136 | 2.6 | 61.3 |
+| 14 | [yibie/awesome-jev](https://github.com/yibie/awesome-jev) | 137 | 2.6 | 61.3 |
 | 15 | [gargpratyush/jev-router](https://github.com/gargpratyush/jev-router) | 127 | 2.6 | 60.8 |
 | 16 | [typesafe-ai/skills](https://github.com/typesafe-ai/skills) | 224 | 2.3 | 60.1 |
 | 17 | [jkudish/jev-browser](https://github.com/jkudish/jev-browser) | 89 | 2.7 | 59.5 |
-| 18 | [superagents-lab/jev-search](https://github.com/superagents-lab/jev-search) | 67 | 2.7 | 58.6 |
+| 18 | [superagents-lab/jev-search](https://github.com/superagents-lab/jev-search) | 70 | 2.7 | 58.6 |
 | 19 | [droidrun/mobile-jev](https://github.com/droidrun/mobile-jev) | 116 | 2.4 | 57.6 |
 | 20 | [hr98w/jev-visual](https://github.com/hr98w/jev-visual) | 102 | 2.4 | 57.3 |
 | 21 | [giuliosmall/pg_typesafe](https://github.com/giuliosmall/pg_typesafe) | 76 | 2.5 | 57.2 |
@@ -60,7 +60,7 @@ Ranked by an even blend of popularity (log-scaled stars) and how compelling the 
 *Open reimplementations, local serving, ports and speedups of Jev-style typed decision models.*
 
 - [TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf) — Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe. `★ 1.5k`
-- [vinnylarouge/jevlike](https://github.com/vinnylarouge/jevlike) — Train a small model that picks among a changing list of text options in one pass. `★ 862`
+- [vinnylarouge/jevlike](https://github.com/vinnylarouge/jevlike) — Train a small model that picks among a changing list of text options in one pass. `★ 863`
 - [TianyuCodings/NanoJev](https://github.com/TianyuCodings/NanoJev) — A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline. `★ 334`
 - [ekzhang/openjev-sglang](https://github.com/ekzhang/openjev-sglang) — Jev-compatible API endpoint based on open models (prefill-only). `★ 142`
 - [hr98w/jev-visual](https://github.com/hr98w/jev-visual) — An educational Jev-like visual inference experiment on Apple Silicon: shared context, direct candidate scoring, and local visual demos. `★ 102`
@@ -72,7 +72,7 @@ Ranked by an even blend of popularity (log-scaled stars) and how compelling the 
 - [zmtomorrow/typear](https://github.com/zmtomorrow/typear) — Type-Safe Decoding for Autoregressive LLMs. `★ 8`
 - [Heman10x-NGU/Verdict-open-jev](https://github.com/Heman10x-NGU/Verdict-open-jev) — Non-autoregressive decision engine on ModernBERT (151M) with calibrated uncertainty (RLCD), TypeSafe AI Jev benchmark audit, and in-browser WebGPU… `★ 4`
 - [komorra/Eugeniusz](https://github.com/komorra/Eugeniusz) — Local, typed AI decisions for C, C++, C#, Python, Unity and Unreal Engine. `★ 6`
-- [mmastrac/djev-spark](https://github.com/mmastrac/djev-spark) — DiffusionGemma NVFP4 structured decisions on a DGX Spark: container recipe. `★ 7`
+- [mmastrac/djev-spark](https://github.com/mmastrac/djev-spark) — DiffusionGemma NVFP4 structured decisions on a DGX Spark: container recipe. `★ 8`
 - [Hoyant-Su/JevSpawn](https://github.com/Hoyant-Su/JevSpawn) — Let a small model decide when to spawn another agent. `★ 1`
 - [ziyacivan/s1decide](https://github.com/ziyacivan/s1decide) — An open decision model: typed questions answered in one forward pass, with published calibration and the negative controls that make it honest. `★ 0`
 - [AdamPippert/granite-decisions](https://github.com/AdamPippert/granite-decisions) — GraniteJev. `★ 1`
@@ -92,7 +92,7 @@ Ranked by an even blend of popularity (log-scaled stars) and how compelling the 
 - [Dicklesworthstone/skillranker](https://github.com/Dicklesworthstone/skillranker) — Rust CLI powered by Jev from TypeSafe.ai that ranks agent skills for the next step using live session context. Includes Claude Code hooks, structured… `★ 44`
 - [0xNatoshi/jev-codex-router](https://github.com/0xNatoshi/jev-codex-router) — Per-turn model & reasoning routing for Codex, driven by Jev (TypeSafe System One): picks the model, thinking depth and speed mode for every turn. `★ 30`
 - [mizchi/jev-playground](https://github.com/mizchi/jev-playground) — Playground for calling Jev from MoonBit. `★ 14`
-- [dbreunig/building-with-jev-skill](https://github.com/dbreunig/building-with-jev-skill) — A skill for writing and improving programs that call Jev, TypeSafe's System One model. `★ 90`
+- [dbreunig/building-with-jev-skill](https://github.com/dbreunig/building-with-jev-skill) — A skill for writing and improving programs that call Jev, TypeSafe's System One model. `★ 91`
 - [TheoOliveira/pi-jev](https://github.com/TheoOliveira/pi-jev) — Semantic tool routing and typed System One decisions for the Pi coding agent using TypeSafe Jev. `★ 11`
 - [dannote/jev](https://github.com/dannote/jev) — TypeSafe Jev for OTP: reply to Jev from a GenServer and pattern match on its answer. `★ 12`
 - [SawyerHood/sawyer-plugins](https://github.com/SawyerHood/sawyer-plugins) — Sawyer Hood's BB plugins: Cascade, Compact Nav, CoW copy, Miku Companion, SlopCop, and T3 Sidebar in one repository. `★ 14`
@@ -104,7 +104,7 @@ Ranked by an even blend of popularity (log-scaled stars) and how compelling the 
 - [AntonioCoppe/jev-harness](https://github.com/AntonioCoppe/jev-harness) — Decision harness for TypeSafe Jev — confidence gates, shadow mode, recipes, and evals. Claude CLI 48.9s → Jev 1.3s on the same row-filter job. `★ 2`
 - [matthewdonsemail-lab/open-typesafe-camoufox](https://github.com/matthewdonsemail-lab/open-typesafe-camoufox) — CLI that drives a headed Camoufox browser toward a plain-English goal, without sending screenshots. `★ 2`
 - [skastr0/prism](https://github.com/skastr0/prism) — Agents, skills, hooks and typed multi-model workflows written once in TypeScript, compiled for a dozen agents. `★ 1`
-- [EliaAlberti/jev-rules](https://github.com/EliaAlberti/jev-rules) — Jev picks which of your rules apply to each prompt, so Claude only sees the ones that matter. `★ 4`
+- [EliaAlberti/jev-rules](https://github.com/EliaAlberti/jev-rules) — Jev picks which of your rules apply to each prompt, so Claude only sees the ones that matter. `★ 5`
 - [hqman/JevScout](https://github.com/hqman/JevScout) — Coding-agent skill that hunts AI and software jobs on real company sites. `★ 14`
 - [thejorgg/omp-jev](https://github.com/thejorgg/omp-jev) — Jev routing for Oh My Pi, with an opt-in checkpoint orchestrator. `★ 3`
 - [chensirui2008/fast-jev-compaction](https://github.com/chensirui2008/fast-jev-compaction) — Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are… `★ 1`
@@ -148,7 +148,7 @@ Ranked by an even blend of popularity (log-scaled stars) and how compelling the 
 
 *Reranking, classification, triage and scoring pipelines.*
 
-- [superagents-lab/jev-search](https://github.com/superagents-lab/jev-search) — Search the web with TypeSafe's Jev: source selection, query understanding and relevance ranking. Built with Search1API. `★ 67`
+- [superagents-lab/jev-search](https://github.com/superagents-lab/jev-search) — Search the web with TypeSafe's Jev: source selection, query understanding and relevance ranking. Built with Search1API. `★ 70`
 - [reachjalil/jevlogs](https://github.com/reachjalil/jevlogs) — Open-source Jev log triage for OpenTelemetry. Score the signal before expensive LLM analysis. `★ 7`
 - [hev/reranker](https://github.com/hev/reranker) — Use Jev (TypeSafe's System One model) as a calibrated reranker: one call, up to 30 documents, a probability per document. Apache-2.0. `★ 1`
 - [thrashr888/clue](https://github.com/thrashr888/clue) — Semantic ranking for CLI output, local search, and bounded agent context. Works with gh, bd, Cider, SQLite, and JSON/JSONL. `★ 1`
@@ -236,9 +236,9 @@ Ranked by an even blend of popularity (log-scaled stars) and how compelling the 
 *Sibling directories of the same ecosystem.*
 
 - [AbdelStark/awesome-typesafe](https://github.com/AbdelStark/awesome-typesafe) — A curated list of official resources and community projects for TypeSafe, System One models, and Jev. `★ 220`
-- [yibie/awesome-jev](https://github.com/yibie/awesome-jev) — A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions. `★ 136`
+- [yibie/awesome-jev](https://github.com/yibie/awesome-jev) — A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions. `★ 137`
 - [logicrw/awesome-jev-projects](https://github.com/logicrw/awesome-jev-projects) — Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync. `★ 26`
-- [valentynkit/awesome-jev-typesafe](https://github.com/valentynkit/awesome-jev-typesafe) — Typed decisions with TypeSafe's Jev, the first System One model. `★ 5`
+- [valentynkit/awesome-jev-typesafe](https://github.com/valentynkit/awesome-jev-typesafe) — Typed decisions with TypeSafe's Jev, the first System One model. `★ 6`
 - [daftAI2026/awesome-jev](https://github.com/daftAI2026/awesome-jev) — TypeSafe System One / Jev community directory — GitHub projects & posts around typed decisions (typesafe.ai). `★ 2`
 
 ## Upstream Integrations
