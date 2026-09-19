@@ -219,6 +219,7 @@ Ranked by an even blend of popularity (log-scaled stars) and how compelling the 
 - [stbenjam/jev-eight-ball](https://github.com/stbenjam/jev-eight-ball) — A liquid magic eight ball powered by TypeSafe Jev decisions through OpenRouter. `★ 0`
 - [robipop22/Jev-is-odd](https://github.com/robipop22/Jev-is-odd) — Ask Jev by TypeSafe AI whether a number is odd. TypeScript, real token usage, and latency benchmarks. `★ 0`
 - [wobsoriano/is-jeven](https://github.com/wobsoriano/is-jeven) — Is it even? Ask Jev. `★ 0`
+- [TurboGuo/jev-dating](https://github.com/TurboGuo/jev-dating) — Jev vs chat models on dating: a red-flag detector and a live "is she/he interested?" meter, both judged against the same standard. Live at jevdating.pages.dev. `★ 0`
 
 ## Framework Integrations
 
