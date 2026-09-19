@@ -141,6 +141,8 @@ Ranked by an even blend of popularity (log-scaled stars) and how compelling the 
 - [vayungodara/jev-lint](https://github.com/vayungodara/jev-lint) — Lint a Markdown knowledge base (Obsidian vault or LLM wiki) for contradictions, stale claims, unresolved markers and missing pages, using TypeSafe Jev. `★ 0`
 - [ntedvs/commentcop](https://github.com/ntedvs/commentcop) — Put your code comments on trial. Powered by Jev. `★ 1`
 - [santos-sanz/jev-audio-beeper](https://github.com/santos-sanz/jev-audio-beeper) — Low-latency audio censorship POC using Jev typed decisions and ffmpeg. `★ 0`
+- [valentynkit/jev-belay](https://github.com/valentynkit/jev-belay) - Claude Code Stop hook that reads the transcript for evidence and, only when files changed with no passing check since, spends one four-question Jev call before letting an unverified "done" stand; fails open on every error path.
+- [valentynkit/jev-commit](https://github.com/valentynkit/jev-commit) - Pre-commit hook where one Jev call judges whether the commit message matches the staged diff, plus debug leftovers and unmentioned work; warns except on a leaked credential, which it blocks.
 
 ## Search, Ranking and Extraction
 
@@ -150,6 +152,7 @@ Ranked by an even blend of popularity (log-scaled stars) and how compelling the 
 - [reachjalil/jevlogs](https://github.com/reachjalil/jevlogs) — Open-source Jev log triage for OpenTelemetry. Score the signal before expensive LLM analysis. `★ 7`
 - [hev/reranker](https://github.com/hev/reranker) — Use Jev (TypeSafe's System One model) as a calibrated reranker: one call, up to 30 documents, a probability per document. Apache-2.0. `★ 1`
 - [thrashr888/clue](https://github.com/thrashr888/clue) — Semantic ranking for CLI output, local search, and bounded agent context. Works with gh, bd, Cider, SQLite, and JSON/JSONL. `★ 1`
+- [valentynkit/jev.nvim](https://github.com/valentynkit/jev.nvim) - Neovim plugin that asks the buffer a plain-language question, splits it into functions with Treesitter, and ranks Jev's per-function scores in quickfix.
 
 ## Applications
 
@@ -174,6 +177,7 @@ Ranked by an even blend of popularity (log-scaled stars) and how compelling the 
 - [arielweinberger/jev-autopilot](https://github.com/arielweinberger/jev-autopilot) — This demo uses Jev from TypeSafe AI to autonomously fly a drone in a random city from point A to point B, avoiding obstacles along the way. A trip costs… `★ 3`
 - [opaielsheikh/zero-shot-vision-robotics](https://github.com/opaielsheikh/zero-shot-vision-robotics) — Zero-shot vision-driven tabletop robotics simulation with PyBullet and multimodal Vision-Language Models. `★ 0`
 - [0xnairb/jevpot](https://github.com/0xnairb/jevpot) — AI-powered jackpot number predictor and intelligence oracle built with TypeSafe System One (Jev). `★ 0`
+- [valentynkit/jev-skip](https://github.com/valentynkit/jev-skip) - Browser extension that reads the YouTube caption track and paints a per-segment sponsor probability on the seek bar before the intro ends, no crowd database; reports catching 77% of SponsorBlock's sponsor seconds over 23 videos at $0.0008 a video.
 
 ## Trading and Markets
 
@@ -219,6 +223,7 @@ Ranked by an even blend of popularity (log-scaled stars) and how compelling the 
 - [stbenjam/jev-eight-ball](https://github.com/stbenjam/jev-eight-ball) — A liquid magic eight ball powered by TypeSafe Jev decisions through OpenRouter. `★ 0`
 - [robipop22/Jev-is-odd](https://github.com/robipop22/Jev-is-odd) — Ask Jev by TypeSafe AI whether a number is odd. TypeScript, real token usage, and latency benchmarks. `★ 0`
 - [wobsoriano/is-jeven](https://github.com/wobsoriano/is-jeven) — Is it even? Ask Jev. `★ 0`
+- [valentynkit/jev-plays-pokemon-red](https://github.com/valentynkit/jev-plays-pokemon-red) - Pokemon Red on PyBoy: code owns the route and the arithmetic, Jev picks only at branches, and every battle turn logs a faint prediction scored by Brier against what the RAM says.
 
 ## Framework Integrations
 
