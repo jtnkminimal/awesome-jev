@@ -183,6 +183,7 @@ Ranked by an even blend of popularity (log-scaled stars) and how compelling the 
 - [aowang-ai/jev-trade](https://github.com/aowang-ai/jev-trade) — Live Jev trader on Hyperliquid. `★ 74`
 - [zadescoxp/Jev-Trades](https://github.com/zadescoxp/Jev-Trades) — Trading bot with the all new TypeSafe AI's first system one model named as Jev. `★ 21`
 - [0xnairb/research_desk](https://github.com/0xnairb/research_desk) — TypeSafe Jev demonstration for new analyzation — experimenting with Jev for fast analysis of news and tickers. `★ 2`
+- [TurboGuo/jev-fedspeech](https://github.com/TurboGuo/jev-fedspeech) — Real-time hawk-or-dove analysis of Fed press conferences: Jev scores every word the Chair says while a chat model scores each caption line, side by side. Live at fedspeech.pages.dev. `★ 0`
 
 ## Benchmarks and Evaluations
 
