@@ -163,6 +163,7 @@ Ranked by an even blend of popularity (log-scaled stars) and how compelling the 
 - [iomiras/sponsor-skipper](https://github.com/iomiras/sponsor-skipper) — Chrome extension that skips creator-inserted sponsor reads using a Jev classifier on timed captions. `★ 9`
 - [AIsa-team/worth-replying](https://github.com/AIsa-team/worth-replying) — Worth Replying by AIsa. `★ 8`
 - [choxos/jev-reviewer](https://github.com/choxos/jev-reviewer) — Ask a trial report and its supplements for systematic review data by voice, text or a questions file. Jev (TypeSafe System One) points at the lines; every… `★ 47`
+- [lykeion-tech/lykeion](https://github.com/lykeion-tech/lykeion) — Open-source research workbench that uses Jev `Noul` checks to assess whether agent-generated predictions are falsifiable and supported by cited evidence before studies advance. `★ 3`
 - [reycn/smart-switch](https://github.com/reycn/smart-switch) — Reimagined window switcher for macOS using frontier artificial intelligence. Predicted by TypeSafe's Jev model. `★ 3`
 - [MithrilMan/your-signal](https://github.com/MithrilMan/your-signal) — Open-source BYOK Chrome extension for personal, reversible X timeline filters. `★ 6`
 - [ai-suifeng/comment-jev-chrome](https://github.com/ai-suifeng/comment-jev-chrome) — Typed four-way triage of social-media comments, with hostility scoring for malicious ones. `★ 5`
